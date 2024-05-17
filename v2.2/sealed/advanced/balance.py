@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!ef check_balance(opened_me):
 #
 # Python code to check balance and send funds if unsealed.
 #
