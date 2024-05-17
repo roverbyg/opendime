@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#
+#757a9feed49a2d5463081703a66a604509e41392d97d6b16554ed6e07cddfe81
 # Python code to check balance and send funds if unsealed.
 #
 #   python balance.py
